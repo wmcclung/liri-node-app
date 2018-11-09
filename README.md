@@ -20,3 +20,7 @@ The "Do what it says" functionality I found pretty confusing as I couldnt run th
 For the spotify app I used a seperate doc to get the relative path of the needed fields in the response and then inserted that into what I believe would work with the structure of the npm node-spotify-api
 
 
+Link to portfolio
+https://wmcclung.github.io/PortfolioforEmployer/
+
+
